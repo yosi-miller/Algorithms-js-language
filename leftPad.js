@@ -6,4 +6,4 @@ function leftPad(str, char, pad){
     return padStr + str
 }
 
-console.log(leftPad("aaabaaa", "o", 5))
+console.log(leftPad("baaa", "o", 5))
